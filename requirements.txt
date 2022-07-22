@@ -1,0 +1,9 @@
+ipython
+ipywidgets
+matplotlib
+numpy
+scipy
+pandas
+lmfit
+numdifftools
+scikit-learn
