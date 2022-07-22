@@ -6,4 +6,4 @@ scipy
 pandas
 lmfit
 numdifftools
-scikit-learn
+voila
